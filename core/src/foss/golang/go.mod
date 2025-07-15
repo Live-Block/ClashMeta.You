@@ -45,7 +45,7 @@ require (
 	github.com/mdlayher/socket v0.4.1 // indirect
 	github.com/metacubex/amneziawg-go v0.0.0-20240922133038-fdf3a4d5a4ab // indirect
 	github.com/metacubex/bart v0.20.5 // indirect
-	github.com/metacubex/bbolt v0.0.0-20240822011022-aed6d4850399 // indirect
+	github.com/metacubex/bbolt v0.0.0-20250715134201-d343f11712df // indirect
 	github.com/metacubex/chacha v0.1.5 // indirect
 	github.com/metacubex/fswatch v0.1.1 // indirect
 	github.com/metacubex/gopacket v1.1.20-0.20230608035415-7e2f98a3e759 // indirect
@@ -75,7 +75,6 @@ require (
 	github.com/oschwald/maxminddb-golang v1.12.0 // indirect
 	github.com/pierrec/lz4/v4 v4.1.14 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
-	github.com/puzpuzpuz/xsync/v3 v3.5.1 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
 	github.com/sagernet/cors v1.2.1 // indirect
 	github.com/sagernet/netlink v0.0.0-20240612041022-b9a21c07ac6a // indirect
