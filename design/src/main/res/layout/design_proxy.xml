@@ -128,7 +128,8 @@
                 android:layout_margin="@dimen/item_tailing_margin"
                 android:contentDescription="@string/delay_test"
                 android:onClick="@{() -> self.requestUrlTesting()}"
-                android:src="@drawable/ic_baseline_flash_on" />
+                android:src="@drawable/ic_baseline_flash_on"
+                app:backgroundTint="?attr/colorPrimary" />
         </FrameLayout>
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </layout>
