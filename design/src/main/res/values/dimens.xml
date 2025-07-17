@@ -37,7 +37,8 @@
     <!--  Common Item  -->
     <dimen name="item_min_height">75dp</dimen>
     <dimen name="item_header_component_size">30dp</dimen>
-    <dimen name="item_header_margin">17.5dp</dimen>
+    <dimen name="item_back_component_size">18dp</dimen>
+    <dimen name="item_header_margin">25dp</dimen>
     <dimen name="item_tailing_component_size">30dp</dimen>
     <dimen name="item_tailing_margin">17.5dp</dimen>
     <dimen name="item_padding_vertical">16dp</dimen>
@@ -46,7 +47,8 @@
 
     <!-- Large Card -->
     <dimen name="large_action_card_radius">8dp</dimen>
-    <dimen name="large_action_card_elevation">1dp</dimen>
+    <dimen name="large_action_card_elevation">5dp</dimen>
+    <dimen name="large_action_card_elevation_spec">1dp</dimen>
     <dimen name="large_action_card_min_height">85dp</dimen>
 
     <!-- Tips -->

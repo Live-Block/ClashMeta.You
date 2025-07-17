@@ -41,7 +41,7 @@ class ActionLabel @JvmOverloads constructor(
         }
 
     override fun setOnClickListener(l: OnClickListener?) {
-        binding.root.setOnClickListener(l)
+        binding.clickAble.setOnClickListener(l)
     }
 
     init {
